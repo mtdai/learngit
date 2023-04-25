@@ -9,3 +9,4 @@ add merge4
 add merge5
 add merge6
 fixed bug1
+fixed bug2
