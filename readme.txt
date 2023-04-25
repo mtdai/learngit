@@ -11,4 +11,5 @@ add merge6
 fixed bug1
 fixed bug2
 fixed bug3
+add data1
 fixed bug4
