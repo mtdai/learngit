@@ -12,3 +12,4 @@ fixed bug1
 fixed bug2
 fixed bug3
 add data1
+fixed bug4
